@@ -1,0 +1,43 @@
+
+@media only screen and (max-width: 922px) {
+
+}
+
+@media only screen and (max-width: 576px) {
+    #cover-text {
+        width: 100%;
+    }
+    .btn {
+        line-break: 2.0;
+    }
+    #search-bar {
+        width: 82%;
+    }
+
+    #kadis {
+        width: 80%;
+    }
+    #logobrand {
+        display: none;
+    }
+    #kadis-title {
+        white-space: nowrap;
+    }
+}
+
+@media only screen and (max-width: 476px) {
+    #kadis-title {
+        white-space: nowrap;
+    }
+}
+
+@media only screen and (max-width: 370px) {
+    #kadis-title {
+        white-space: nowrap;
+    }
+}
+
+
+
+
+

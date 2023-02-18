@@ -1,0 +1,76 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+.headermain {
+    background-image:url(/Asset/BG.png);
+}
+
+.cont1 {
+  background-color: antiquewhite;
+  width: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar-brand {
+    width: 100px;
+    height: 35px;
+    background-color: #0D28A6;
+}
+
+.title2 {
+  font-size: 1.17em;
+}
+
+.cont2 {
+  position: relative;
+  border: 0.5em solid rgba(138, 135, 135, 0.26);
+  border-radius: 2em;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.content2 {
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.listcont2{
+    position: relative;
+    list-style:circle;
+    vertical-align: middle;
+}
+
+.wrapTitle4 {
+    width: 100%;
+}
+.title4 {
+    width: 30%;
+    text-align: center;
+    border: 0.1em solid #2A9E89;
+    background-color: #2A9E89;
+    border-radius: 2em;
+}
+
+.galeryBackground {
+    background-image:url(/Asset/Background-gallery.png);
+}
+
+.linkTerkaitBackground{
+    background-image:url(/Asset/Rectangle14.png);
+}
+
+footer {
+    background-image:url(/Asset/Footer.png);
+    
+}
